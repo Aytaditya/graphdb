@@ -1,0 +1,9 @@
+langchain
+langchain-community
+langchain-experimental
+langchain_openai
+neo4j
+PyMuPDF
+python-dotenv
+langchain-text-splitters
+json-repair
